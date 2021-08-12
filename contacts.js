@@ -12,3 +12,16 @@ function search_contacts() {
       }
   }
 }
+
+function deleteContact() {
+    console.log("called");
+    document.getElementById("firstNameResult").innerHTML = ""; 
+    document.getElementById("lastNameResult").innerHTML = ""; 
+    document.getElementById("addressResult").innerHTML = ""; 
+    document.getElementById("cityResult").innerHTML = ""; 
+    document.getElementById("provinceResult").innerHTML = ""; 
+    document.getElementById("postalCodeResult").innerHTML = ""; 
+    document.getElementById("phoneNumberResult").innerHTML = ""; 
+    document.getElementById("emailResult").innerHTML =""; 
+    document.getElementById("notesResult").innerHTML = ""; 
+}
