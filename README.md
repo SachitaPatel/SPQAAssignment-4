@@ -5,8 +5,6 @@ Sachita Patel
 To run this Application WAMP server is needs to be installed
 
 
-
-
 --> Home.html file is the first file to start on.
 --> From home page there are Search contacts and Add new contacts infromation option.
 --> Search contacts allows to search the first name of the contacts
