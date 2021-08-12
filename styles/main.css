@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  html{
+    background-color: white;
+  }
+  
+  body {
+  
+    background-color: whitesmoke;
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  h1 {
+    text-align: center;
+    color: darkgreen;
+  } 
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .home_link{
+    text-decoration: none;
+  }
+
+  footer{
+    height: 30px;
+    text-align: center;
+    font-size: 14px;
+    background-color: darkgreen;
+    color: white;
+    padding: 5px;
+    padding-top: 15px;
+  }
